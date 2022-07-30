@@ -1,11 +1,9 @@
-<script>
-// Get the modal
-var modal = document.getElementById('id01');
+<!DOCTYPE html>
+<html>
+<body>
 
-// When the user clicks anywhere outside of the modal, close it
-window.onclick = function(event) {
-  if (event.target == modal) {
-    modal.style.display = "none";
-  }
-}
-</script>
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+
+</body>
+</html>
